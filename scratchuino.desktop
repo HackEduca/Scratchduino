@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=CnE Scratchduino
+Encoding=UTF-8
+Comment=SCRATCHDUINO Server
+GenericName=Scratchduino
+Exec=/home/awangenh/scratchduino/dist/scratchduino/scratchduino
+Path=/home/awangenh/scratchduino/dist/scratchduino
+StartupNotify=true
+Type=Application
+Terminal=false
+Icon=/home/awangenh/scratchduino/scratchduino-alpha.png
+Categories=Utility;
+

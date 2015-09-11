@@ -1,0 +1,9 @@
+('/home/awangenh/scratchduino/dist/scratchduino',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1432677141)
